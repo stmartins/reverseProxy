@@ -5,7 +5,7 @@
 execute reverseProxy and 3 http-server in 4 different terminals:
 
 ```console
-TTY1@stf:~§ reverseProxy
+TTY1@stf:~$ reverseProxy
 
 TTY2@stf:~$ http-server -p 1331
 
